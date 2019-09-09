@@ -1,4 +1,4 @@
 # CCSO General Meetings
 
-## 9/9/19
+## 2019-09-09
 Introductory general information and challenges
