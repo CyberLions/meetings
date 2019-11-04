@@ -33,3 +33,9 @@
 ### Challenge Questions
 * What organization controls the website?
 * What did the website look like at the time of this capture?
+
+# Malware Traffic Analysis
+Please be careful to not download and execute malware on your personal machines... a VM is really helpful here
+* The lab is available at: https://www.malware-traffic-analysis.net/2018/02/13/index.html
+  * Password for all their ZIPs is "infected"
+* Here are some helpful guides: https://www.malware-traffic-analysis.net/tutorials/index.html
