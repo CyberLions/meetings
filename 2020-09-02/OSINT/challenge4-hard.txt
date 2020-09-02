@@ -1,0 +1,7 @@
+We are an electrical company that's fairly big in our region. Our sole cybersecurity employee was tracking activity from a known malicious email address that keeps sending our employees "hta" files or whatever that is. We don't know much about them, but they made some graphs of the attacker's pattern of life. I would ask them more about it, but they just quit. While we find their replacement, we need to figure out what we're dealing with. The only other thing they mentioned was the attacker was fairly sophisticated. As our consultant, can you tell us anything about the threat we might be facing?
+
+NOTE: Since this is OSINT, you may not be able to be highly confident in your answer - that's perfectly fine! Try to come up with answers that aren't random guesses, but are logical answers that is supported by the evidence that you're given.
+
+Questions:
+- Where might the attackers be coming from / which country do they live in?
+- Which group might be responsible for these attacks?

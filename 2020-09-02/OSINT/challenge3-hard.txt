@@ -1,0 +1,3 @@
+WARNING: Clicking on some google results may take you to malicious websites. Do not click on any download links! That is NOT required.
+
+Prompt: I'm trying to find a copy of the Windows XP install disk (an ISO file). Microsoft makes this difficult. Most of the sites I found contain malicious download links. Can you find me a copy of the Windows XP ISO file from a network file share instead of a content download site?
