@@ -1,0 +1,1 @@
+The university of Heidelberg has a webcam of their pendulum open to the internet. All we know about it, is that it is using an AXIS M1114 Network Camera. Please find the URL.
